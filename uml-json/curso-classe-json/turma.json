@@ -1,0 +1,21 @@
+{
+    "id": 3,
+    "aluno": [
+        {
+            "id": 1,
+            "nome": "Joao",
+            "idade": 18,
+            "cpf": "124543",
+            "rg": "12312431",
+            "endereco": "rua teste",
+            "dataNascimento": "22-10-2003",
+            "matricula": [
+                {
+                    "id": 1,
+                    "dataMatricula": "13-12-2021",
+                    "situacaoMatricula": "matriculado"
+                }
+            ]
+        }
+    ]
+}

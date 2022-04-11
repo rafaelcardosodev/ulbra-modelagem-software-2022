@@ -1,0 +1,33 @@
+{
+    "id": 1,
+    "valor": 23.50,
+    "cliente": [
+        {
+            "id": 1,
+            "nome": "Rafael",
+            "cpf": "032928123",
+            "endereco": "avenida rua",
+            "dataNascimento": "22-10-2003"
+        },
+        {
+            "id": 2,
+            "nome": "Joao",
+            "cpf": "0329215124",
+            "endereco": "avenida bairro",
+            "dataNascimento": "22-11-2013"
+        },
+        {
+            "id": 3,
+            "nome": "Maria",
+            "cpf": "1234522",
+            "endereco": "bairro rua",
+            "dataNascimento": "07-11-2000"
+        }
+    ],
+    "boleto": {
+        "id": 1,
+        "dataEmissao": "22-10-2010",
+        "dataVencimento": "22-11-2010",
+        "valor": 23.50
+    }
+}
