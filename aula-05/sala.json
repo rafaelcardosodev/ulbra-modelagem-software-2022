@@ -1,0 +1,18 @@
+{
+    "numero": 317,
+    "cor": "amarela",
+    "temQuadro": true,
+    "portaFechada": true,
+    "alunos": [
+        {
+            "cgu": 33333,
+            "nome": "diogo",
+            "contatos": [
+                {
+                    "tipo": "telefone",
+                    "descricao": "99999999"
+                }
+            ]
+        }
+    ]
+}

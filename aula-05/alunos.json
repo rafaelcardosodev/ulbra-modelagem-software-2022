@@ -1,0 +1,22 @@
+[
+    {
+        "cgu": 123123,
+        "nome": "rafael",
+        "contatos": [
+            {
+                "tipo": "telefone",
+                "descricao": "99999999"
+            }
+        ]
+    },
+    {
+        "cgu": 33333,
+        "nome": "diogo",
+        "contatos": [
+            {
+                "tipo": "telefone",
+                "descricao": "25354233"
+            }
+        ]
+    }
+]
