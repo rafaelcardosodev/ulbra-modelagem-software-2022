@@ -16,7 +16,7 @@
                     "rg": "12312431",
                     "endereco": "rua teste",
                     "dataNascimento": "22-10-2003",
-                    "matricula": [
+                     "matricula": [
                         {
                             "id": 1,
                             "dataMatricula": "13-12-2021",
