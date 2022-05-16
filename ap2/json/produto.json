@@ -1,0 +1,29 @@
+[
+    {   
+        "id": 1,
+        "nome": "farinha",
+        "tipo": "alimento",
+        "quantidadeEmEstoque": 3,
+        "camposAdicionais": []
+    },
+    {   
+        "id": 2,
+        "nome": "ovo",
+        "tipo": "alimento",
+        "quantidadeEmEstoque": 1,
+        "camposAdicionais": []
+    }, 
+    {   
+        "id": 3,
+        "nome": "sal",
+        "tipo": "alimento",
+        "quantidadeEmEstoque": 5,
+        "camposAdicionais": [
+            {
+                "id": 2,
+                "titulo": "Validade",
+                "descricao": "Validade depois de aberto: 12 dias"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "cnpj": "21312321",
+    "nomeFantasia": "Padoca do seu Zé",
+    "razaoSocial": "José Pereira LTDA",
+    "segmento": "Alimentício",
+    "produtosInteresses": ["farinha", "ovo", "sal", "açucar"],
+    "endereços":  [
+        {
+            "id": 1,
+            "logradouro": "Rua Pereira da Silva, 144",
+            "bairro": "Igra Sul",
+            "cidade": "Nossa Senhora da Avelina",
+            "estado": "RS",
+            "cep": "88960000",
+            "pais": "Brasil"
+        },
+        {
+            "id": 2,
+            "logradouro": "Rua Silva, 14",
+            "bairro": "Igra Norte",
+            "cidade": "Nossa Senhora da Conceição",
+            "estado": "SC",
+            "cep": "99650000",
+            "pais": "Brasil"
+        }
+    ]
+}

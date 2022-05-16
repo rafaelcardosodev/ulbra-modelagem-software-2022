@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "logradouro": "Rua Pereira da Silva, 144",
+        "bairro": "Igra Sul",
+        "cidade": "Nossa Senhora da Avelina",
+        "estado": "RS",
+        "cep": "88960000",
+        "pais": "Brasil"
+    },
+    {
+        "id": 2,
+        "logradouro": "Rua Silva, 14",
+        "bairro": "Igra Norte",
+        "cidade": "Nossa Senhora da Conceição",
+        "estado": "SC",
+        "cep": "99650000",
+        "pais": "Brasil"
+    },
+    {
+        "id": 3,
+        "logradouro": "Rua Pereira, 64",
+        "bairro": "Igra",
+        "cidade": "Nossa Senhora",
+        "estado": "MT",
+        "cep": "5655333",
+        "pais": "Brasil"
+    }
+]

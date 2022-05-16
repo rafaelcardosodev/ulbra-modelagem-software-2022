@@ -1,0 +1,56 @@
+{
+    "id": 1,
+    "cnpj": "4412523",
+    "nomeFantasia": "Souza Purple",
+    "razaoSocial": "Souza Purple LTDA",
+    "segmento": "Alimentício",
+    "produtos": [
+        {   
+            "id": 1,
+            "nome": "farinha",
+            "tipo": "alimento",
+            "quantidadeEmEstoque": 3,
+            "camposAdicionais": []
+        },
+        {   
+            "id": 2,
+            "nome": "ovo",
+            "tipo": "alimento",
+            "quantidadeEmEstoque": 1,
+            "camposAdicionais": []
+        }, 
+        {   
+            "id": 3,
+            "nome": "sal",
+            "tipo": "alimento",
+            "quantidadeEmEstoque": 5,
+            "camposAdicionais": [
+                {
+                    "id": 2,
+                    "titulo": "Validade",
+                    "descricao": "Validade depois de aberto: 12 dias"
+                }
+            ]
+        }
+    ],
+    "endereços":  [
+        {
+            "id": 1,
+            "logradouro": "Rua Pereira da Silva, 144",
+            "bairro": "Igra Sul",
+            "cidade": "Nossa Senhora da Avelina",
+            "estado": "RS",
+            "cep": "88960000",
+            "pais": "Brasil"
+        },
+        {
+            "id": 2,
+            "logradouro": "Rua Silva, 14",
+            "bairro": "Igra Norte",
+            "cidade": "Nossa Senhora da Conceição",
+            "estado": "SC",
+            "cep": "99650000",
+            "pais": "Brasil"
+        }
+    ]
+}
